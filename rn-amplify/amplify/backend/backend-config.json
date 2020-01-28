@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"ampliyfacebookauth018dbbdd": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+    "local": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ampliy-facebook-auth-local-160608-authRole",
+            "UnauthRoleArn": "arn:aws:iam::034541671702:role/amplify-ampliy-facebook-auth-local-160608-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::034541671702:role/amplify-ampliy-facebook-auth-local-160608-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-ampliy-facebook-auth-local-160608-deployment",
+            "UnauthRoleName": "amplify-ampliy-facebook-auth-local-160608-unauthRole",
+            "StackName": "amplify-ampliy-facebook-auth-local-160608",
+            "StackId": "arn:aws:cloudformation:us-east-1:034541671702:stack/amplify-ampliy-facebook-auth-local-160608/ddffdfd0-41f8-11ea-b8d6-0e6f11df9e98",
+            "AmplifyAppId": "d3qcdd6zg3unco"
+        },
+        "categories": {
+            "auth": {
+                "ampliyfacebookauth018dbbdd": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"1011774279195243\",\"client_secret\":\"b2920fb7a7a783f0f4626938ba56a7c6\"},{\"ProviderName\":\"Google\",\"client_id\":\"316922182993-2je612k2tekfcs925o4n40v467v40pqa.apps.googleusercontent.com\",\"client_secret\":\"MxCwGvdAMqjmKnwBHx5Zw6kg\"}]"
+                }
+            }
+        }
+    }
+}
